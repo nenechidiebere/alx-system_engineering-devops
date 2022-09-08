@@ -1,5 +1,2 @@
 #!/bin/bash
-./0-hello_world | cat -e
-
-Hello, World$
-why?
+echo "Hello, World"
